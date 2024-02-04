@@ -1,3 +1,9 @@
+**SVD Comparison Grids v1.1 vs v1 - img2vid**
+
+SVD - Frames: 25, Motion Bucket ID: 127, FPS: 6, Aug Level: 0.00
+
+KSampler - Sampler: euler, Steps: 20, CFG: 2.0, Scheduler: Normal
+
 | Comparison Grids  | Comparison Grids | Comparison Grids |
 | ------------- | ------------- | ------------- |
 | <video src="https://github.com/purzbeats/svd-comparison-grids/assets/97489706/8ff81a83-0271-4775-b498-166cbb0b8ae1"> | <video src="https://github.com/purzbeats/svd-comparison-grids/assets/97489706/95d12f4f-14ec-4113-947b-9d88e3729f57"> | <video src="https://github.com/purzbeats/svd-comparison-grids/assets/97489706/3232492a-5898-4d2e-9e2d-670f241c33d1">
