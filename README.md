@@ -4,7 +4,7 @@ SVD - Frames: 25, Motion Bucket ID: 127, FPS: 6, Aug Level: 0.00
 
 KSampler - Sampler: euler, Steps: 20, CFG: 2.0, Scheduler: Normal
 
-[![SVD Comparison Grids](https://img.youtube.com/vi/7jaYG5MglHg/0.jpg)](https://www.youtube.com/watch?v=7jaYG5MglHg)
+HD Grids: https://www.youtube.com/watch?v=7jaYG5MglHg
 
 | Comparison Grids  | Comparison Grids | Comparison Grids |
 | ------------- | ------------- | ------------- |
